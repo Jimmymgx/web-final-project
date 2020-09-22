@@ -14,7 +14,7 @@ header{
     display: flex;
     justify-content: space-between;
     height: 450px;
-    background-image: url("images/banner.jpg");
+    background-image: url("banner.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
